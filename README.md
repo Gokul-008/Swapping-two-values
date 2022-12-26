@@ -20,17 +20,27 @@ End the program
 ## PROGRAM:
 ```
 #Program to swap two values.
+<<<<<<< HEAD
 #Developed by: Gokul.M
 #RegisterNumber:22009089
+=======
+#Developed by:SRIRAM S 
+#RegisterNumber:22009336
+>>>>>>> 3d03267 (add)
 num1,num2=input(),input()
 temp=num1
 num1=num2
 num2=temp
 print("Swapped values are:",num1,num2)
 ```
+<<<<<<< HEAD
 ## output:
 ![output](./swapping.png)
+=======
+>>>>>>> 3d03267 (add)
 
+## output:
+![output](./swapping%20two%20values.png)
 
 
 ## RESULT:
