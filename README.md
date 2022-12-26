@@ -20,13 +20,8 @@ End the program
 ## PROGRAM:
 ```
 #Program to swap two values.
-<<<<<<< HEAD
-#Developed by: Gokul.M
-#RegisterNumber:22009089
-=======
 #Developed by:SRIRAM S 
 #RegisterNumber:22009336
->>>>>>> 3d03267 (add)
 num1,num2=input(),input()
 temp=num1
 num1=num2
